@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/bruxoRaul.github.io/static/css/main.f855e6bc.css",
-    "main.js": "/bruxoRaul.github.io/static/js/main.a3c31689.js",
-    "static/media/logo.svg": "/bruxoRaul.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/bruxoRaul.github.io/static/css/main.7176ac25.css",
+    "main.js": "/bruxoRaul.github.io/static/js/main.c6dc1932.js",
+    "static/media/Card.png": "/bruxoRaul.github.io/static/media/Card.e71c875024ca7d0c9aef.png",
     "index.html": "/bruxoRaul.github.io/index.html",
-    "main.f855e6bc.css.map": "/bruxoRaul.github.io/static/css/main.f855e6bc.css.map",
-    "main.a3c31689.js.map": "/bruxoRaul.github.io/static/js/main.a3c31689.js.map"
+    "main.7176ac25.css.map": "/bruxoRaul.github.io/static/css/main.7176ac25.css.map",
+    "main.c6dc1932.js.map": "/bruxoRaul.github.io/static/js/main.c6dc1932.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.a3c31689.js"
+    "static/css/main.7176ac25.css",
+    "static/js/main.c6dc1932.js"
   ]
 }
